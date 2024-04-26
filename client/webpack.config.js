@@ -34,7 +34,7 @@ module.exports = () => {
         fingerprints: false,
         inject: true,
         name: 'Just Another Text Editor',
-        short_name: 'JATE',
+        short_name: 'J.A.T.E.',
         description: 'A text editor',
         background_color: '#7eb4e2',
         theme_color: '#7eb4e2',
